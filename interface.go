@@ -1,8 +1,8 @@
 package metrics
 
 import (
-	peer "github.com/libp2p/go-libp2p-peer"
-	protocol "github.com/libp2p/go-libp2p-protocol"
+	peer "github.com/dms3-p2p/go-p2p-peer"
+	protocol "github.com/dms3-p2p/go-p2p-protocol"
 )
 
 type Reporter interface {
